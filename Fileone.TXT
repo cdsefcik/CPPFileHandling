@@ -1,0 +1,4 @@
+this is the data that my StringFile.txt contains
+This is the first line
+This is the second line
+This is the third line
